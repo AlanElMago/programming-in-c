@@ -12,7 +12,7 @@ int main(void)
     printf("%f assigned to an int produces %i\n", f1, i1);
 
     f1 = i2;                // integer to floating conversion
-    printf("%i addigned to a float produces %f\n", i2, f1);
+    printf("%i assigned to a float produces %f\n", i2, f1);
 
     f1 = i2 / 100;          // integer divided by an integer
     printf("%i divided by 100 produces %f\n", i2, f1);
