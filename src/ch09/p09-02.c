@@ -35,7 +35,7 @@ int main (void)
         tomorrow.year = today.year;
     }
     
-    printf ("Tomorrow's date is %i/%i/%.2i\n", tomorrow.month,
+    printf ("Tomorrow's date is %i/%i/%.2i.\n", tomorrow.month,
             tomorrow.day, tomorrow.year % 100);
 
     return 0;
