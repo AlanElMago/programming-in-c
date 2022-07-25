@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdbool.h>
-
-
 // Function to dermine if a character is alphabetic
 
 #include <stdio.h>
